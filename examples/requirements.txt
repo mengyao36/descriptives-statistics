@@ -1,0 +1,19 @@
+# needed packages #
+import numpy as np
+import scipy as sc
+from scipy import stats
+
+import matplotlib.pyplot as plt
+
+import pandas as pd
+import pandas.plotting as plotting
+
+import statsmodels.api as sm
+import statsmodels.formula.api as smf
+from statsmodels.formula.api import ols
+
+import seaborn as sns
+
+import urllib
+import urllib.request
+import os
